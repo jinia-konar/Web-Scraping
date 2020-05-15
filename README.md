@@ -8,6 +8,6 @@ There is huge amount of data over internet that can be fetched according to the 
 
 Monster is a static website - This code is only with respect to static websites
 
-![Final result will be]()
+![Final result will be](https://raw.githubusercontent.com/jinia-konar/Web-Scraping/master/Images/Output%20for%20static%20website.png)
 
 Refer [this](https://realpython.com/beautiful-soup-web-scraper-python/) for better explanation.
